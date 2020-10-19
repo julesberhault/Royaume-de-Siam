@@ -42,9 +42,9 @@ Les joueurs jouent à tour de rôle. Au début, les joueurs sont disposés à
 l'extérieur du plateau. Les éléphants, animaux sacrés du Royaume de Siam
 commencent à jouer.
 A chaque tour, les joueurs ne peuvent exécuter une des actions suivantes:
--Entrer un animal sur une des cases extérieures du plateau (cases vertes)
--Sortir un de ses animaux disposés sur une case extérieure (cases vertes)
--Se déplacer sur une case libre ou en poussant d'autres pièces disposées
+* Entrer un animal sur une des cases extérieures du plateau (cases vertes)
+* Sortir un de ses animaux disposés sur une case extérieure (cases vertes)
+* Se déplacer sur une case libre ou en poussant d'autres pièces disposées
 sur le plateau (si la force nécessaire au déplacement est suffisante).
 _________________________________________________________________________
 
@@ -94,13 +94,13 @@ Vous pouvez déplacer un de vos animaux sur une case adjacente mais pas en
 diagonale.
 Si la case est libre, le mouvement est possible
 Si la case est occupée vous devez pousser l'élément:
--vous ne pouvez pousser que dans la direction de votre animal
--un animal a la force de pousser un rocher
--un animal a la force de pousser un autre animal sauf si il lui fait face
--un animal peut pousser autant d'animaux que possible si ceux-ci ne sont
+* vous ne pouvez pousser que dans la direction de votre animal
+* un animal a la force de pousser un rocher
+* un animal a la force de pousser un autre animal sauf si il lui fait face
+* un animal peut pousser autant d'animaux que possible si ceux-ci ne sont
 pas orientés dans une direction opposée
 Transmission de force
--la force des animaux peux être cumulée sur une chaine (tant que cette
+* la force des animaux peux être cumulée sur une chaine (tant que cette
 force est transmise)
 
 /!\ Pour cela, cliquer sur le bouton "Déplacer", selectionner la case sur
@@ -109,13 +109,13 @@ seconde case, adjacente à la première, pour déplacer votre animal.
 
 Précision:
 Dans une direction donnée:
--la force d'un animal orienté dans la même direction que le déplacement
+* la force d'un animal orienté dans la même direction que le déplacement
 vaut 10
--la force d'un animal orienté dans une direction opposée au déplacement
+* la force d'un animal orienté dans une direction opposée au déplacement
 vaut -10
--la force d'un animal orienté dans une direction othogonale au
+* la force d'un animal orienté dans une direction othogonale au
 déplacement vaut 0
--la force d'un rocher vaut dans tout les cas -9
+* la force d'un rocher vaut dans tout les cas -9
 Voilà maintenant vous n'avez plus qu'à faire le calcul !
 _________________________________________________________________________
 
