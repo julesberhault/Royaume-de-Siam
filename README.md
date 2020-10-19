@@ -1,7 +1,5 @@
 # ROYAUME DE SIAM - REGLES ET AIDES
 Développé par Jules Berhault - 2018
-
-![Snapshot 2](https://github.com/julesberhault/Royaume-de-Siam/blob/main/Snapshots/Main_menu.JPG)
 _________________________________________________________________________
 
 Vous êtes au Royaume de Siam, jadis, un véritable paradis sur Terre,
@@ -27,6 +25,8 @@ Il est aussi conseillé d'ajuster le volume de vos enceintes à un niveau
 raisonnable. (L'écoute prolongée à un volume élevé peut endommager vos
 facultés auditives, la musique est entrainante certes mais faites
 attention à vos oreilles)
+
+![Snapshot 2](https://github.com/julesberhault/Royaume-de-Siam/blob/main/Snapshots/Main_menu.JPG)
 
 _________________________________________________________________________
 
@@ -66,7 +66,7 @@ laquelle vous souhaitez placer votre animal en cliquant dessus
 puis cliquer sur une seconde case, adjacente à la première, pour orienter
 votre animal.
 
-![Snapshot 2](https://github.com/julesberhault/Royaume-de-Siam/blob/main/Snapshots/Help.JPG)
+![Snapshot 2](https://github.com/julesberhault/Royaume-de-Siam/blob/main/Snapshots/In_game.JPG)
 _________________________________________________________________________
 
 ### Changer l'ORIENTATION d'un animal
