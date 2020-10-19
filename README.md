@@ -26,7 +26,9 @@ raisonnable. (L'écoute prolongée à un volume élevé peut endommager vos
 facultés auditives, la musique est entrainante certes mais faites
 attention à vos oreilles)
 
-![Snapshot 2](https://github.com/julesberhault/Royaume-de-Siam/blob/main/Snapshots/Main_menu.JPG)
+_________________________________________________________________________
+
+![Main_menu](https://github.com/julesberhault/Royaume-de-Siam/blob/main/Snapshots/Main_menu.JPG)
 
 _________________________________________________________________________
 
@@ -37,7 +39,9 @@ A savoir que ce n'est pas forcément le joueur qui provoque la sortie de
 la montagne mais le joueur dont la pièce est la plus proche et orientée
 dans la direction du déplacement.
 
-![Snapshot 2](https://github.com/julesberhault/Royaume-de-Siam/blob/main/Snapshots/In_game_2.JPG)
+_________________________________________________________________________
+
+![In_game_2](https://github.com/julesberhault/Royaume-de-Siam/blob/main/Snapshots/In_game_2.JPG)
 _________________________________________________________________________
 
 ### Comment jouer
@@ -51,7 +55,9 @@ A chaque tour, les joueurs ne peuvent exécuter une des actions suivantes:
 * Se déplacer sur une case libre ou en poussant d'autres pièces disposées
 sur le plateau (si la force nécessaire au déplacement est suffisante).
 
-![Snapshot 2](https://github.com/julesberhault/Royaume-de-Siam/blob/main/Snapshots/Help.JPG)
+_________________________________________________________________________
+
+![Help](https://github.com/julesberhault/Royaume-de-Siam/blob/main/Snapshots/Help.JPG)
 _________________________________________________________________________
 
 ### PLACER un animal
@@ -66,7 +72,9 @@ laquelle vous souhaitez placer votre animal en cliquant dessus
 puis cliquer sur une seconde case, adjacente à la première, pour orienter
 votre animal.
 
-![Snapshot 2](https://github.com/julesberhault/Royaume-de-Siam/blob/main/Snapshots/In_game.JPG)
+_________________________________________________________________________
+
+![In_game](https://github.com/julesberhault/Royaume-de-Siam/blob/main/Snapshots/In_game.JPG)
 _________________________________________________________________________
 
 ### Changer l'ORIENTATION d'un animal
@@ -126,7 +134,9 @@ déplacement vaut 0
 * la force d'un rocher vaut dans tout les cas -9
 Voilà maintenant vous n'avez plus qu'à faire le calcul !
 
-![Snapshot 2](https://github.com/julesberhault/Royaume-de-Siam/blob/main/Snapshots/You_win.JPG)
+_________________________________________________________________________
+
+![You_win](https://github.com/julesberhault/Royaume-de-Siam/blob/main/Snapshots/You_win.JPG)
 _________________________________________________________________________
 
 ### MUSIQUE
