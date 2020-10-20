@@ -1,5 +1,5 @@
 # ROYAUME DE SIAM - REGLES ET AIDES
-Développé par Jules Berhault - 2018
+Développé par Jules Berhault et François Rouvrais (BERVRAIS) - 2018
 _________________________________________________________________________
 
 Vous êtes au Royaume de Siam, jadis, un véritable paradis sur Terre,
